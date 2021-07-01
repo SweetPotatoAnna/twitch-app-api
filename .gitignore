@@ -9,3 +9,5 @@ jupiter.iml
 target/
 
 src/main/webapp/
+
+.DS_Store
